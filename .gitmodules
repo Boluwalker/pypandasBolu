@@ -1,0 +1,3 @@
+[submodule "pypandasBolu"]
+	path = pypandasBolu
+	url = https://github.com/Boluwalker/pypandasBolu.git
